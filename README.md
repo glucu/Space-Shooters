@@ -3,7 +3,7 @@
 # Screenshots
 
 <img src="Images/MenuScreen.PNG" width=500>
-<img src="Images/inGame.PNG" width=500>
+<img src="Images/inGame3.PNG" width=500>
 <img src="Images/inGame2.PNG" width=500>
 <img src="Images/You lose.PNG" width=500>
 
