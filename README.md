@@ -19,3 +19,17 @@ This project is base on Unity 2019.3. It is a functional introduction to Space S
 
 
 # Controls
+Input | Button
+------|-------
+Go left | Left arrow key
+Go right| Right arrow key
+Fire | Spacebar
+Restart | 'R' key
+Quit | Esc
+
+# Installation
+For **Windows OS**
+- Download the zip file and unzip it
+- Run the executable called First Game found inside the extracted file.
+- https://github.com/masterGabe/Space-Shooters/releases/tag/0.0.1
+
