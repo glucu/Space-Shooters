@@ -15,6 +15,7 @@ This project is base on Unity 2019.3. It is a functional introduction to Space S
 - Score board that credits you for shooting down enemies 
 - Audio that provides background music, and explosion sounds
 - Cool Projectile animation
+- Player Health Bar
 
 
 # Controls
